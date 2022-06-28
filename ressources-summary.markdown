@@ -1,17 +1,17 @@
-# Technical writing for software and API documentation 
+# Technical writing for software and API documentation : learning journal
 
 ## Table of contents
 
-[What this repo is about](#What-this-repo-is-about)</br>
+[What this journal is about](#What-this-journal-is-about)</br>
 [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
-> [Udemy courses](#Udemy-courses)</br>
+> [Udemy courses about technical writing](#Udemy-courses-about-technical-writing)</br>
 >> [1. How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
 >>> [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
 >>> [The workflow steps](#The-workflow-steps)</br>
 >>> [Creating a DITA map with Oxygen XML Author](Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
 >>> [Designing your content from a simple template](Designing-your-content-from-a-simple-template)</br>
 
-## What this repo is about
+## What this journal is about
 
 Hello ! My name is [Anne-Laure Freant](https://www.linkedin.com/in/annelaurefreant/) and I am a content specialist with 10 years of experience in the field of tech 
 (in Canada and in France) where I worked for either startups or state-level public institutions on digital products. I used to conduct editorial projects (blogs, SEO, UX writing) as well as translations of technical content (english to french, french to english) and data or code curation (reading and checking JSON files, completing metadata, etc.). So I already have a good set of skills in the field of tech, content and technical writing, and I got into the process of obtaining a technical writing certification in 2022 so to shift my career towards technical writing full time. 
@@ -25,9 +25,9 @@ As I was looking for online courses and certifications to improve my technical w
 
 As I already have a background in digital writing and technical content curation, I decided to start with a few Udemy courses that are relatively fast to complete (within a few days) but very specific to technical writing as well as based on real exercices. I then decided to go for the [Technical writing certification from HQ](https://technicalwriterhq.com/technical-writing-certification/) for a complete training and official certification.
 
-
 </br>
-### Udemy courses
+
+### Udemy courses about technical writing
 
 #### Udemy course : [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
 
