@@ -12,7 +12,19 @@
 ### Udemy courses
 
 #### Udemy course : "How to Build a DITA XML Technical Writing Portfolio" https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio/learn/lecture/25954774#overview
-#### Udemy course : "Learn API Technical Writing: JSON and XML for Writers" https://www.udemy.com/course/api-documentation-1-json-and-xml/
-#### Udemy course : "How to Write Software Documentation" https://www.udemy.com/course/start-your-career-as-user-assistance-develope
+
+Getting setup
+- Downloading and installing Oxygen XML Author from [the Oxygen XML website](https://www.oxygenxml.com/xml_author/download_oxygenxml_author.html)
+- Showcasing your technical skills and ability to work with developers implies creating a DITA XML documentation portfolio and to have it available on a public Github repository.
+
+Start the documentation writing
+- CONCEPTION : What are the main features of the app or the software I am writing the documentation of ? We start by making a simple list of main functions.
+- WRITING : Write the content with DITA XML
+- PRODUCTION : Generate a PDF file and HTML5 content from the DITA source
+- PUBLICATION : Share the content with the end user
+
+#### Udemy course : [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
+
+#### Udemy course : [How to Write Software Documentation](https://www.udemy.com/course/start-your-career-as-user-assistance-develope)
 
 ### Certification
