@@ -15,15 +15,15 @@ As I already have a background in digital writing and technical content curation
 ## Table of contents
 
 [Udemy courses](#Udemy-courses)</br>
-  [How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
-        [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
-        [The workflow steps](#The-workflow-steps)</br>
-        [Creating a DITA map with Oxygen XML Author](Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
-        [Designing your content from a simple template](Designing-your-content-from-a-simple-template)</br>
+      [How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
+         [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
+         [The workflow steps](#The-workflow-steps)</br>
+         [Creating a DITA map with Oxygen XML Author](Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
+         [Designing your content from a simple template](Designing-your-content-from-a-simple-template)</br>
 </br>
 ### Udemy courses
 
-#### Udemu course : [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
+#### Udemy course : [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
 
 This course can be found [here](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio).
 Below are my notes following the lesson step by step.
