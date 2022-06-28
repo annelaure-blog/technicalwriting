@@ -1,4 +1,15 @@
-# Technical writing for software and API documentation : courses & notes
+# Technical writing for software and API documentation 
+
+## Table of contents
+
+[What this repo is about](#What-this-repo-is-about)</br>
+[How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
+      [Udemy courses](#Udemy-courses)</br>
+             [1. How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
+                   [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
+                   [The workflow steps](#The-workflow-steps)</br>
+                   [Creating a DITA map with Oxygen XML Author](Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
+                   [Designing your content from a simple template](Designing-your-content-from-a-simple-template)</br>
 
 ## What this repo is about
 
@@ -8,18 +19,13 @@ Hello ! My name is [Anne-Laure Freant](https://www.linkedin.com/in/annelaurefrea
 
 I share on this repo all my notes from the various trainings and courses I took to improve my technical writing skills as well as getting a technical writing certification. Feel free to browse through the content if you are looking for a specific set of skills, a specific topic or course.
 
+## How I chose the courses and trainings presented in this document
+
 As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) ,[3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). Udemy might not the best place to start if you are looking for a full certificate or a complete training, but it is perfect to acquire some specific skills, assess your level and see more precisely what other trainings you might need according to your background and goals. It is a good way to test your interest for a very reasonable price before considering investing in a more expensive, longer certification.
 
 As I already have a background in digital writing and technical content curation, I decided to start with a few Udemy courses that are relatively fast to complete (within a few days) but very specific to technical writing as well as based on real exercices. I then decided to go for the [Technical writing certification from HQ](https://technicalwriterhq.com/technical-writing-certification/) for a complete training and official certification.
 
-## Table of contents
 
-[Udemy courses](#Udemy-courses)</br>
-      [How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
-         [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
-         [The workflow steps](#The-workflow-steps)</br>
-         [Creating a DITA map with Oxygen XML Author](Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
-         [Designing your content from a simple template](Designing-your-content-from-a-simple-template)</br>
 </br>
 ### Udemy courses
 
