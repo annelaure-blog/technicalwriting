@@ -7,29 +7,30 @@ Hello ! My name is [Anne-Laure Freant](https://www.linkedin.com/in/annelaurefrea
 
 I share on this repo all my notes from the various trainings and courses I took to improve my technical writing skills as well as getting a technical writing certification. Feel free to browse through the content if you are looking for a specific set of skills, a specific topic or course.
 
-As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) [3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). Udemy is not the best place to start if you are looking for a full certificate or a complete basic training, but it is perfect to acquire some specific skills, assess your level and see more precisely what training you might need according to your background and goals, while remaining quite cheap.
+As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) ,[3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). Udemy might not the best place to start if you are looking for a full certificate or a complete initial training, but it is perfect to acquire some specific skills, assess your level and see more precisely what other trainings you might need according to your background and goals. It is a good way to test your interest for a very reasonable price before considering investing in a more expensive, longer certification.
 
-As I already have a background in digital writing and technical content, I decided to start with a few Udemy courses that are relatively fast to complete (a few days) but very specific to technical writing as well as based on real exercices. I then decided to go for the [Technical writing certification from HQ](https://technicalwriterhq.com/technical-writing-certification/) for a complete training as well as official certification.
+As I already have a background in digital writing and technical content curation, I decided to start with a few Udemy courses that are relatively fast to complete (within a few days) but very specific to technical writing as well as based on real exercices. I then decided to go for the [Technical writing certification from HQ](https://technicalwriterhq.com/technical-writing-certification/) for a complete training and official certification.
 
 ## Table of contents
 
 [Udemy courses](#Udemy-courses)
-  1. [How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)
-        [Getting setup with Github and Oxygen XML Author](Getting setup with Github & Oxygen XML Author
-    The workflow steps
-    Creating a DITA map with Oxygen XML Author
-    Designing your content from a simple template
+  [How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)
+        [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)
+        [The workflow steps](#The-workflow-steps)
+        [Creating a DITA map with Oxygen XML Author](Creating-a-DITA-map-with-Oxygen-XML-Author)
+        [Designing your content from a simple template](Designing-your-content-from-a-simple-template)
 
 ### Udemy courses
 
+#### How to Build a DITA XML Technical Writing Portfolio
 
-
-#### 1. Udemy course : [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio/learn/lecture/25954774#overview)
+This course can be found [here](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio).
+Below are my notes following the lesson step by step.
 
 ##### Getting setup with Github and Oxygen XML Author
 
-- Download and instal Oxygen XML Author from [the Oxygen XML website](https://www.oxygenxml.com/xml_author/download_oxygenxml_author.html) using the trial licence key that is available for 30 days
-- Showcase your technical skills and ability to work with developers implies creating a DITA XML documentation portfolio and to have it available on a public Github repository. You then have to create an account (if you don't have one already) on Github, or if you do, to [create a new public repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
+- Download and install Oxygen XML Author from [the Oxygen XML website](https://www.oxygenxml.com/xml_author/download_oxygenxml_author.html) using the trial licence key that is available for 30 days
+- To showcase your technical skills and ability to work with developers, it is a good thing to build a DITA XML documentation portfolio and to have it available on a public Github repository. To do so,  you would have to create an account (if you don't have one already) on Github. If you already have a Github account, you can  [create a new public repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) right away.
 
 ##### The workflow steps
 
