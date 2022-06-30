@@ -3,7 +3,7 @@
    ## Table of contents
 
 - [What this journal is about](#What-this-journal-is-about) </br>
-- [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
+- [How I chose the courses presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
 - [Course 1 : How to build a DITA XML technical writing portfolio](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
                   - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
                   - [The workflow steps](#The-workflow-steps)</br>
@@ -18,7 +18,7 @@ Hello ! My name is [Anne-Laure Freant](https://www.linkedin.com/in/annelaurefrea
 (in Canada and in France) where I worked for either startups or state-level public institutions on digital products. I used to conduct editorial projects (blogs, SEO, UX writing) as well as translations of technical content (english to french, french to english) and data or code curation (reading and checking JSON files, completing metadata, etc.). So I already have a good set of skills in the field of tech, content and technical writing, and I got into the process of obtaining a technical writing certification in 2022 so to shift my career towards technical writing full time. 
 **My goal is to specialize in software, web apps and API documentation.** I share on this document my notes from the various courses I took to improve my technical writing skills as well as getting a technical writing certification. 
 
-## How I chose the courses and trainings presented in this document
+## How I chose the courses presented in this document
 
 As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) ,[3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). Udemy might not the best place to start if you are looking for a full certificate or a complete training, but it is perfect to acquire some specific skills, assess your level and see more precisely what other trainings you might need according to your background and goals. It is a good way to test your interest for a very reasonable price before considering investing in a more expensive, longer certification.
 
