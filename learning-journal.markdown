@@ -4,7 +4,7 @@
 
 - [What this journal is about](#What-this-journal-is-about) </br>
 - [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
-      - [Course 1 : How to build a DITA XML technical writing portfolio](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
+- [Course 1 : How to build a DITA XML technical writing portfolio](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
                   - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
                   - [The workflow steps](#The-workflow-steps)</br>
                   - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
