@@ -4,13 +4,14 @@
 
 - [What this journal is about](#What-this-journal-is-about)</br>
 - [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
-    - [Udemy courses about technical writing](#Udemy-courses-about-technical-writing)</br>
-       - [1. How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
+    - [Courses about technical writing](#Udemy-courses-about-technical-writing)</br>
+       - [How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
           - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
           - [The workflow steps](#The-workflow-steps)</br>
           - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
           - [Designing your content](#Designing-your-content)</br>
           - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)
+          - [Exporting and publishing your DITA content](#Exporting-and-publishing-your-DITA-content)
           - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)
 
  ## What this journal is about
@@ -27,9 +28,9 @@ As I already have a background in digital writing and technical content curation
 
 </br>
 
-# Udemy courses about technical writing
+# Courses about technical writing
 
-## Udemy course : [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
+## [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
 
 This course can be found [here](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio).
 Below are my notes following the lesson step by step.
@@ -78,7 +79,11 @@ Each page of the documentation should help the users address one specific questi
       - 4 : do a right click, select "create a skimming mask" in the menu
 - **Result** : the skimming mask is created
 
-### Additionnal DITA tutorials
+   ### Exporting and publishing your DITA content
+   
+  
+
+   ### Additionnal DITA tutorials
 
 - Webinar : [What is DITA (53 minutes)](https://www.youtube.com/watch?v=UGiV7evB8Ig&ab_channel=Heretto)
 - The website for [DobBook XML standard](https://docbook.org/)
