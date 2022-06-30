@@ -2,15 +2,15 @@
 
    ## Table of contents
 
-- [What this journal is about](#What-this-journal-is-about)
-- [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)
-       - [Course 1 : How to build a DITA XML technical writing portfolio](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)
-          - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)
-          - [The workflow steps](#The-workflow-steps)
-          - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)
-          - [Designing your content](#Designing-your-content)
-          - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)
-          - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)
+- [What this journal is about](#What-this-journal-is-about) </br>
+- [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
+       - [Course 1 : How to build a DITA XML technical writing portfolio](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
+          - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
+          - [The workflow steps](#The-workflow-steps)</br>
+          - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
+          - [Designing your content](#Designing-your-content)</br>
+          - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)</br>
+          - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)</br>
 
  ## What this journal is about
 
@@ -63,10 +63,10 @@ Once Oxygen XML is open :
   ### Designing your content 
 
 Content in DITA can be divided into 4 categories : 
-- **topics (general descriptions)**
-    - **concepts** (specific thing to know about a topic), 
-    - **tasks** (step by step, how to),
-    - **references** (norms, tables, index...).
+- **topics (general descriptions)** </br>
+    - **concepts** (specific thing to know about a topic), </br>
+    - **tasks** (step by step, how to),</br>
+    - **references** (norms, tables, index...).</br>
 
 Each page of the documentation should help the users address one specific question. People tend to search on search engines with by questions, such as "how to group items in Illustrators". The basic template to follow is :
 - **Question** :  "How to create a clipping mask in Adobe Illustrator ?"
@@ -82,7 +82,18 @@ Each page of the documentation should help the users address one specific questi
 
    
    ### Generate a PDF file and HTML 5 content
-  
+   
+To export our DITA content, we must :
+- select the DITA map in Oxygen
+- click on the "Configure transformation scenario" icon
+- choose HTML5 and PDF in the list of output formats
+- click on "apply"
+
+To improve the apparence of the content output, CSS would be required. At this stage, we focus only on the content.
+Publishing the content must be done **only when the customer has approved the publication** to be shared with the end users.
+
+The PDF file can be added to our Github Repository along with DITA XML files and the HTML file by adding https://htmlpreview.github.io
+
 
    ### Additionnal DITA tutorials
 
