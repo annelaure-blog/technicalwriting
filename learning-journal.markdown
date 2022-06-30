@@ -2,16 +2,14 @@
 
    ## Table of contents
 
-- [What this journal is about](#What-this-journal-is-about)</br>
-- [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
-    - [Courses about technical writing](#Udemy-courses-about-technical-writing)</br>
-       - [How to build a DITA XML technical writing portfolio](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
-          - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
-          - [The workflow steps](#The-workflow-steps)</br>
-          - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
-          - [Designing your content](#Designing-your-content)</br>
+- [What this journal is about](#What-this-journal-is-about)
+- [How I chose the courses and trainings presented in this document](How-I-chose-the-courses-presented-in-this-document)
+       - [Course 1 : How to build a DITA XML technical writing portfolio](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)
+          - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)
+          - [The workflow steps](#The-workflow-steps)
+          - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)
+          - [Designing your content](#Designing-your-content)
           - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)
-          - [Exporting and publishing your DITA content](#Exporting-and-publishing-your-DITA-content)
           - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)
 
  ## What this journal is about
@@ -28,9 +26,7 @@ As I already have a background in digital writing and technical content curation
 
 </br>
 
-# Courses about technical writing
-
-## [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
+## [Course 1 : How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
 
 This course can be found [here](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio).
 Below are my notes following the lesson step by step.
@@ -49,7 +45,8 @@ Below are my notes following the lesson step by step.
 
   ### Creating a DITA map with Oxygen XML Author
 
-DITA means Darwin Information Typing Architecture. DITA is a Component Content Management System (CCMS).
+DITA means Darwin Information Typing Architecture. 
+DITA is a Component Content Management System (CCMS).
 
 > "A content model is an architectural framework for a collection of content, representing the structure of the data to be stored. In a structured authoring sense, a content model is a high level plan of the types of information and an appropriate structure for its storage. For example, the content model for a Frequently Asked Question (FAQ) of a manual might describe a hierarchy of topics, broken down into title, question, background, and answer.
 When we design an information architecture for storing information (or a structure to suit our documentation), we are creating a content (or information) model.
@@ -65,7 +62,11 @@ Once Oxygen XML is open :
 
   ### Designing your content 
 
-Content in DITA can be divided into 4 categories : **topics (general descriptions)**, concepts (specific thing to know about a topic), tasks (step by step, how to) and references.
+Content in DITA can be divided into 4 categories : 
+- **topics (general descriptions)**
+    - **concepts** (specific thing to know about a topic), 
+    - **tasks** (step by step, how to),
+    - **references** (norms, tables, index...).
 
 Each page of the documentation should help the users address one specific question. People tend to search on search engines with by questions, such as "how to group items in Illustrators". The basic template to follow is :
 - **Question** :  "How to create a clipping mask in Adobe Illustrator ?"
@@ -79,8 +80,8 @@ Each page of the documentation should help the users address one specific questi
       - 4 : do a right click, select "create a skimming mask" in the menu
 - **Result** : the skimming mask is created
 
-   ### Exporting and publishing your DITA content
    
+   ### Generate a PDF file and HTML 5 content
   
 
    ### Additionnal DITA tutorials
@@ -90,10 +91,10 @@ Each page of the documentation should help the users address one specific questi
 - Learning DITA free courses on [LearningDITA.com](https://learningdita.com/available-courses/)
 
 
-   ### Generate a PDF file and HTML 5 content
+   
 
-#### 2. Udemy course : [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
+#### 2. Course 2 : [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
 
-#### 3. Udemy course : [How to Write Software Documentation](https://www.udemy.com/course/start-your-career-as-user-assistance-develope)
+#### 3. Course 3 : [How to Write Software Documentation](https://www.udemy.com/course/start-your-career-as-user-assistance-develope)
 
 ### Certification
