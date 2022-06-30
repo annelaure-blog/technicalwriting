@@ -9,7 +9,9 @@
           - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
           - [The workflow steps](#The-workflow-steps)</br>
           - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
-          - [Designing your content from a simple template](#Designing-your-content-from-a-simple-template)</br>
+          - [Designing your content](#Designing-your-content)</br>
+          - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)
+          - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)
 
  ## What this journal is about
 
@@ -46,26 +48,44 @@ Below are my notes following the lesson step by step.
 
   ### Creating a DITA map with Oxygen XML Author
 
+DITA means Darwin Information Typing Architecture. DITA is a Component Content Management System (CCMS).
+
+> "A content model is an architectural framework for a collection of content, representing the structure of the data to be stored. In a structured authoring sense, a content model is a high level plan of the types of information and an appropriate structure for its storage. For example, the content model for a Frequently Asked Question (FAQ) of a manual might describe a hierarchy of topics, broken down into title, question, background, and answer.
+When we design an information architecture for storing information (or a structure to suit our documentation), we are creating a content (or information) model.
+Top-level elements in DITA content models are topic types (or information types). A typical procedure manual may include procedure, explanation, glossary and error message information types. DITA's base content model (that is, the standard, default DITA model) defines three information types: **concept, task and reference**. These three types all inherit characteristics of a proto information type, simply named topic. The following diagram shows the basic information types."
+
+Visit the [DITA Style Guide by Oxygen XML](https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/#Artefact/Topics_and_Information_Types/c_Content_Models_and_Info_Types.html) for a complete set of definitions and best practices.
+
 Once Oxygen XML is open :
 - Create a DITA map by clicking on "file", then "new", then by selecting "DITA map" and by naming your new file with a relevant name
 - Create a dedicated folder for your work on the desktop of your computer and make sure all files created in this exercice are included in it
 - Create  topic heads elements within this map by right clicking on our new map title, then "append child", then "Topic head"
 - Save your work (Crtl S)
 
-  ### Designing your content from a simple template
+  ### Designing your content 
+
+Content in DITA can be divided into 4 categories : **topics (general descriptions)**, concepts (specific thing to know about a topic), tasks (step by step, how to) and references.
 
 Each page of the documentation should help the users address one specific question. People tend to search on search engines with by questions, such as "how to group items in Illustrators". The basic template to follow is :
-- **Question** :  "How to substract numbers ?"
-- **Answer** : Follow the steps of the task "How to substract numbers"
-- **Task title** : "How to substract numbers"
-- **Prerequisite** : To sucessfully substract numbers, you must know the principles of substraction
+- **Question** :  "How to create a clipping mask in Adobe Illustrator ?"
+- **Answer** : Follow the steps indicated to create a clipping mask in Adobe Illustrator
+- **Definition** : A clipping mask is an object whose shape masks other artwork so that only areas that lie within the shape are visible—in effect, clipping the artwork to the shape of the mask. It is a useful way of creating the look of "cropping" an image without having to move into Illustrator to create a true crop.
+- **Prerequisite** : To sucessfully create a skimming mask, you must know how to create shapes and import images to Adobe Illustrator.
 - **Steps** :
-      - 1 : enter the first number
-      - 2 : hit the "substract" button with the sign "-"
-      - 3 : enter the second number 
-      - 4 : hit the "equal" button (=)
-- **Result** : the result from your substraction in displayed on the screen
-- **Example** : xxx
+      - 1 : import one image to Illustrator
+      - 2 : on the same layer, draw a shape (either a circle, rectangle or hand-draw shape with the pencil tool) that will be the contour of the skimming mask
+      - 3 : select both the image and the shape by either clicking on both while maintaining "shift" or by dragging the mouse over 
+      - 4 : do a right click, select "create a skimming mask" in the menu
+- **Result** : the skimming mask is created
+
+### Additionnal DITA tutorials
+
+- Webinar : [What is DITA (53 minutes)](https://www.youtube.com/watch?v=UGiV7evB8Ig&ab_channel=Heretto)
+- The website for [DobBook XML standard](https://docbook.org/)
+- Learning DITA free courses on [LearningDITA.com](https://learningdita.com/available-courses/)
+
+
+   ### Generate a PDF file and HTML 5 content
 
 #### 2. Udemy course : [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
 
