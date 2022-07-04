@@ -4,14 +4,14 @@
 
 - [What this journal is about](#What-this-journal-is-about) </br>
 - [How I chose the courses presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
-- [Course 1 : How to build a DITA XML technical writing portfolio](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
+- [**Course 1 : How to build a DITA XML technical writing portfolio**](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
                   - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
                   - [The workflow steps](#The-workflow-steps)</br>
                   - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
                   - [Designing your content](#Designing-your-content)</br>
                   - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)</br>
                   - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)</br>
-- [Course 2 : The Art of API Documentation](#Course-2-The-Art-of-API-Documentation)</br>
+- [**Course 2 : The Art of API Documentation**](#Course-2-The-Art-of-API-Documentation)</br>
 
  ## What this journal is about
 
@@ -104,7 +104,7 @@ The PDF file can be added to our Github Repository along with DITA XML files and
 
 
 
-#### Course 2 : The Art of API Documentation
+## Course 2 : The Art of API Documentation
 
 This course can be found on Udemy [here](https://www.udemy.com/course/the-art-of-api-documentation/learn/lecture/4207186#overview). It is given by Peter Gruenbaum, President, SDK Bridge. It is the 3 out of 3 courses about API documentation.
 See also, intro video : ["What is a REST API ?"](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMTechnology)
