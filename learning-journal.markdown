@@ -103,11 +103,11 @@ The PDF file can be added to our Github Repository along with DITA XML files and
 - Learning DITA free courses on [LearningDITA.com](https://learningdita.com/available-courses/)
 
 
-   
 
 #### 2. [Course 2 : The Art of API Documentation](https://www.udemy.com/course/the-art-of-api-documentation/learn/lecture/4207186#overview)
 
-This course can be found on Udemy here. It is given by Peter Gruenbaum, President, SDK Bridge.
+This course can be found on Udemy here. It is given by Peter Gruenbaum, President, SDK Bridge. It is the 3 out of 3 courses about API documentation.
+See also, intro video : ["What is a REST API ?"](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMTechnology)
 
 ##### Introduction
 
@@ -129,7 +129,7 @@ API documentation can be divided in 2 parts :
                   - registration
                   - get an app key
                   - authorization
-                  - doing something simple
+                  - making one or two http request that return a response
               - For Platform API :
                   - downloading the SDK (software development kit)
                   - setting up your Integrated Development environment (IDE)
@@ -141,7 +141,7 @@ API documentation can be divided in 2 parts :
       - sample code
 - reference : http request and references (methods, classes...)
 
-##### Overview material of API documentation
+##### Material of API documentation
 
 The overview needs to explain the "why" and not just the "how".
 Its important because developers need to know :
@@ -150,7 +150,17 @@ Its important because developers need to know :
 - is it well designed ?
 They need to know if this API can solve their problem or not.
 
+- Explaining the why : describe key features, provide a few use cases
+- Provide the list of requirements (might not be needed for web API)
+- for Platforms API : what operating system, what language, what versions ?
 
+For each concept, write a paragraph or two.
+Workflow diagrams and architecture diagrams might help for visual persons within the overview section (explaining how the different pieces fit together).
+
+##### Tools for API documentation
+
+- Postman : [https://www.postman.com/](https://www.postman.com/) is an app that allows you to make requests and see responses through a visual client.
+- Swagger
 
 
 ### Certification
