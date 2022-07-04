@@ -104,9 +104,9 @@ The PDF file can be added to our Github Repository along with DITA XML files and
 
 
 
-#### 2. [Course 2 : The Art of API Documentation](https://www.udemy.com/course/the-art-of-api-documentation/learn/lecture/4207186#overview)
+#### 2. Course 2 : The Art of API Documentation()
 
-This course can be found on Udemy here. It is given by Peter Gruenbaum, President, SDK Bridge. It is the 3 out of 3 courses about API documentation.
+This course can be found on Udemy [here](https://www.udemy.com/course/the-art-of-api-documentation/learn/lecture/4207186#overview). It is given by Peter Gruenbaum, President, SDK Bridge. It is the 3 out of 3 courses about API documentation.
 See also, intro video : ["What is a REST API ?"](https://www.youtube.com/watch?v=lsMQRaeKNDk&ab_channel=IBMTechnology)
 
 ##### Introduction
@@ -160,7 +160,5 @@ Workflow diagrams and architecture diagrams might help for visual persons within
 ##### Tools for API documentation
 
 - Postman : [https://www.postman.com/](https://www.postman.com/) is an app that allows you to make requests and see responses through a visual client.
-- Swagger
 
 
-### Certification
