@@ -11,6 +11,7 @@
                   - [Designing your content](#Designing-your-content)</br>
                   - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)</br>
                   - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)</br>
+- [Course 2 : The Art of API Documentation](#Course-2-The-Art-of-API-Documentation)
 
  ## What this journal is about
 
@@ -104,8 +105,52 @@ The PDF file can be added to our Github Repository along with DITA XML files and
 
    
 
-#### 2. Course 2 : [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
+#### 2. [Course 2 : The Art of API Documentation](https://www.udemy.com/course/the-art-of-api-documentation/learn/lecture/4207186#overview)
 
-#### 3. Course 3 : [How to Write Software Documentation](https://www.udemy.com/course/start-your-career-as-user-assistance-develope)
+This course can be found on Udemy here. It is given by Peter Gruenbaum, President, SDK Bridge.
+
+##### Introduction
+
+API stands for Application Programming Interface. API defines how 2 pieces of software communicate with each other.
+There are several types of API : the 2 most common are Web API (REST) and platform API.
+API documentation are for developers. Good quality documentation will improve developers autonomy. 
+Writers bring an important 
+
+API documentation can be divided in 2 parts :
+- conceptual : high level info such as 
+      - an overview
+          - explain why to use the API
+          - requirements
+          - key concepts
+          - workflow (order of steps to do common tasks)
+          - visual information (models diagrams)
+          - a "getting started section"
+              - For Web API : lead people through a simple task
+                  - registration
+                  - get an app key
+                  - authorization
+                  - doing something simple
+              - For Platform API :
+                  - downloading the SDK (software development kit)
+                  - setting up your Integrated Development environment (IDE)
+                  - doing something simple
+      - tutorials
+           - step by step instructions, should start with simple tasks and gradually become more complex
+           - sample code covers common tasks (lots of comments in them to explain how the code works)
+           - sample code is different from production code
+      - sample code
+- reference : http request and references (methods, classes...)
+
+##### Overview material of API documentation
+
+The overview needs to explain the "why" and not just the "how".
+Its important because developers need to know :
+- what does the API do
+- what does it require
+- is it well designed ?
+They need to know if this API can solve their problem or not.
+
+
+
 
 ### Certification
