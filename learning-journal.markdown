@@ -2,17 +2,19 @@
 
    ## Table of contents
 
-- [What this journal is about](#What-this-journal-is-about) </br>
-- [How I chose the courses presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
+- [What this journal is about](#What-this-journal-is-about)</br>
+- [How to choose a technical writing course](How-to-choose-a-technical-writing-course)</br>
 - [Documentation as code VS DITA & other methods](Documentation-as-code-VS-DITA-&-other-methods)</br>
-- [**Course 1 : How to build a DITA XML technical writing portfolio**](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
+- [**Documenting APIs: A guide for technical writers and engineers**](Documenting-APIs-A-guide-for-technical-writers-and-engineers)</br>
+- 
+- [**How to build a DITA XML technical writing portfolio**](#How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
                   - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
                   - [The workflow steps](#The-workflow-steps)</br>
                   - [Creating a DITA map with Oxygen XML Author](#Creating-a-DITA-map-with-Oxygen-XML-Author)</br>
                   - [Designing your content](#Designing-your-content)</br>
                   - [Generate a PDF file and HTML 5 content](#Generate-a-PDF-file-and-HTML-5-content)</br>
                   - [Additionnal DITA tutorials](#Additionnal-DITA-tutorials)</br>
-- [**Course 2 : the art of API Documentation**](#Course-2-the-art-of-API-Documentation)</br>
+- [**The art of API Documentation**](#Course-2-the-art-of-API-Documentation)</br>
 
  ## What this journal is about
 
@@ -20,13 +22,33 @@ Hello ! My name is [Anne-Laure Freant](https://www.linkedin.com/in/annelaurefrea
 (in Canada and in France) where I worked for either startups or state-level public institutions on digital products. I used to conduct editorial projects (blogs, SEO, UX writing) as well as translations of technical content (english to french, french to english) and data or code curation (reading and checking JSON files, completing metadata, etc.). So I already have a good set of skills in the field of tech, content and technical writing, and I got into the process of obtaining a technical writing certification in 2022 so to shift my career towards technical writing full time. 
 **My goal is to specialize in software, web apps and API documentation.** I share on this document my notes from the various courses I took to improve my technical writing skills as well as getting a technical writing certification. 
 
-## How I chose the courses presented in this document
+## How to choose a technical writing course 
 
-As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) ,[3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). </br>
+As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) ,[3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). But to me, most of those courses were either too expensive, or not focused enough on the tech industry documentation needs (software and API). 
 
-Udemy might not the best place to start if you are looking for a full certificate or a complete training, but it is perfect to acquire some specific skills, assess your level and see more precisely what other trainings you might need according to your background and goals. It is a good way to test your interest for a very reasonable price before considering investing in a more expensive, longer certification.
+### The best courses to start
 
-As I already have a background in digital writing and technical content curation, I decided to start with a few Udemy courses that are relatively fast to complete (within a few days) but very specific to technical writing as well as based on real exercices. I then decided to go for the [Technical writing certification from HQ](https://technicalwriterhq.com/technical-writing-certification/) for a complete training and official certification.
+#### 1. I'd rather be writing course (free)
+
+One of the best place to start is for API documentation is definitely the **I'd rather be writing** course by Tom Johnson.
+The course is called [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/). It contains more than 160 pages (matching around 500 pages as a print version), all accessible for free about what APIs are, how to write for a developer audience and what tools to master to become an API technical writer.</br>
+There also are [several workshops](https://idratherbewriting.com/learnapidoc/docapis_course_videos.html) Tom gave that you can watch as Youtube videos that complete the written course perfectly. It takes a few days (or weeks) to get through all of it and doing the hands-on exercices but it is definitely a very up-to-date and operational course. </br>
+Tom even gives advice to start working on open source projects and build a technical writer portfolio on Github. </br>
+
+
+#### 2. Peter Gruenbaum courses on Udemy (paid)
+
+This course is divided in 3 parts :
+- [API Documentation : JSON and XML](https://www.udemy.com/course/api-documentation-1-json-and-xml/) is part 1
+- [Learn API Technical Writing 2: REST for Writers](https://www.udemy.com/course/learn-api-technical-writing-2-rest-for-writers/) is part 2
+- [The art of API documentation](https://www.udemy.com/course/the-art-of-api-documentation/) is part 3
+
+Its a very concise and clear course covering all aspects of API documentation writing. It is however, in my opinion, a little bit dry. It requires visiting more blogs and other websites to sometimes complete the given information.
+
+#### 3. Advanced courses in technical writing by Cherryleaf (paid)
+
+Among [the advanced courses from Cherryleaf](https://cherryleaf.teachable.com/p/advanced-technical-communication) is one course about API documentation : "Creating API documentation and developer portals".
+
 
 ## Documentation as code VS DITA & other methods
 
@@ -37,7 +59,11 @@ Both methods and tools are interesting to learn, it all depends on what you are 
 My project is definitely more on the "documentation as code" culture but I took a course on DITA and XML to gain basic knowledge.
 </br>
 
-## [Course 1 : How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
+## Documenting APIs: A guide for technical writers and engineers
+
+
+
+## [How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
 
 This course can be found [here](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio).
 Below are my notes following the lesson step by step.
