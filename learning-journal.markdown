@@ -4,6 +4,7 @@
 
 - [What this journal is about](#What-this-journal-is-about) </br>
 - [How I chose the courses presented in this document](How-I-chose-the-courses-presented-in-this-document)</br>
+- [Documentation as code VS DITA & other methods](Documentation-as-code-VS-DITA-&-other-methods)</br>
 - [**Course 1 : How to build a DITA XML technical writing portfolio**](#Course-1-How-to-build-a-DITA-XML-technical-writing-portfolio)</br>
                   - [Getting setup with Github and Oxygen XML Author](#Getting-setup-with-Github-and-Oxygen-XML-Author)</br>
                   - [The workflow steps](#The-workflow-steps)</br>
@@ -21,10 +22,19 @@ Hello ! My name is [Anne-Laure Freant](https://www.linkedin.com/in/annelaurefrea
 
 ## How I chose the courses presented in this document
 
-As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) ,[3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). Udemy might not the best place to start if you are looking for a full certificate or a complete training, but it is perfect to acquire some specific skills, assess your level and see more precisely what other trainings you might need according to your background and goals. It is a good way to test your interest for a very reasonable price before considering investing in a more expensive, longer certification.
+As I was looking for online courses and certifications to improve my technical writing skills, I read several articles ranking the "best technical writing certifications" ( [1](https://www.squibler.io/blog/technical-writing-certification/), [2](https://productmanagerhq.com/technical-writing-certification/) ,[3](https://www.thecareerproject.org/blog/best-technical-writing-courses/)). </br>
+
+Udemy might not the best place to start if you are looking for a full certificate or a complete training, but it is perfect to acquire some specific skills, assess your level and see more precisely what other trainings you might need according to your background and goals. It is a good way to test your interest for a very reasonable price before considering investing in a more expensive, longer certification.
 
 As I already have a background in digital writing and technical content curation, I decided to start with a few Udemy courses that are relatively fast to complete (within a few days) but very specific to technical writing as well as based on real exercices. I then decided to go for the [Technical writing certification from HQ](https://technicalwriterhq.com/technical-writing-certification/) for a complete training and official certification.
 
+## Documentation as code VS DITA & other methods
+
+There is, in the last years, a cultural shift happening from the DITA standard (structured content with XML) tools and methods to "documentation as code" workflows. The two cultures coexist but seem to be evolving in different professionnal worlds that don't overlap or meet very often.
+Most big corporation, especially in the trade & industry business, are used to work with DITA and XML structured content tools (Oxygen XML for instance) to manage heavy documentations to be exported in PDF for prints or as HTML files to publish online, for instance.</br>
+Most tech companies, especially API based companies, have adopted "documentation as code" workflows, mainly because developers are often themselves the documentation editors and are used to work with Github, markdown or HTML files as well as static sites and a more open source, collaborative approach. It is also implied that the documentation needs to be online eventually to be usefull to other developers, so it is from the beginning designed as such. </br>
+Both methods and tools are interesting to learn, it all depends on what you are interested in. </br>
+My project is definitely more on the "documentation as code" culture but I took a course on DITA and XML to gain basic knowledge.
 </br>
 
 ## [Course 1 : How to Build a DITA XML Technical Writing Portfolio](https://www.udemy.com/course/how-to-build-a-dita-xml-technical-writing-portfolio)
