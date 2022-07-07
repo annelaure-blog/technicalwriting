@@ -30,4 +30,4 @@ I only focus here on documentation as code workflow, so all the tools I am going
 Tools to embed testing and interactive code in your documentation :
 - Codepen
 
-All static websites generators : https://jamstack.org/generators/
+If you need more options, here are a website with all static websites generators : [https://jamstack.org/generators/](https://jamstack.org/generators/)
